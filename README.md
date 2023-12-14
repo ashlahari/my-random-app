@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This was a fun experiment to generate random shapes on click in the UI, eventually creating a bunch of moving confetti.
+The aim of this project was to learn more about the framer-motion library, and to generate random shapes and motions in the UI.
 
 ## Available Scripts
 
